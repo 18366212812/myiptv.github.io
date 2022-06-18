@@ -1,16 +1,3 @@
-TW,#genre#
-TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-东森财*新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
-华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
-民视新闻,http://seb.sason.top/sc/msxw_fhd.m3u8
-三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
-三立Live,http://seb.sason.top/sc/sllive_fhd.m3u8
-台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
-中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-
-
 CCTV,#genre#
 CCTV-1 综合,http://192.168.123.1:8888/udp/239.253.254.77:8000
 山东卫视,http://192.168.123.1:8888/udp/239.253.254.78:8000
@@ -35,8 +22,8 @@ CCTV-12 社会与法,http://192.168.123.1:8888/udp/239.253.254.235:8000
 CCTV-13 新闻,http://192.168.123.1:8888/udp/239.253.254.175:8000
 CCTV-14 少儿,http://192.168.123.1:8888/udp/239.253.254.236:8000
 CCTV-15 音乐,http://192.168.123.1:8888/udp/239.253.254.170:8000
-CCTV-16 奥运,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-CCTV-17 农村,http://192.168.123.1:8888/udp/239.253.254.168:8000
+CCTV-16 奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV-17 农业农村,http://192.168.123.1:8888/udp/239.253.254.168:8000
 CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 多画面,http://192.168.123.1:8888/udp/239.253.254.167:8000
 
